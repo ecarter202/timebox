@@ -2,8 +2,8 @@
 A timeboxing CLI app.
 
 ## Install
-`go get -u github.com/ecarter202/timebox`
-`cd <timebox-repo-path>`
+`go get -u github.com/ecarter202/timebox`<br/>
+`cd <timebox-repo-path>`<br/>
 `go install`
 
 ## Use
